@@ -894,6 +894,16 @@ h4 {
         padding-right: constant(safe-area-inset-right);
     }
 }
+.avis{
+    margin: 0px 180px 0px 180px;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: normal;
+}
+.avis span{
+    font-style: normal;
+    font-size: 14px;
+}
 
 @media (max-width: 767px) {
     .page-container {
