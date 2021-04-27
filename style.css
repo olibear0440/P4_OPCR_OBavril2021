@@ -760,7 +760,8 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    /*background-color: rgba(165, 147, 99, 0.7);*/
+    background-color: rgba(165, 147, 99, 0.9);
     padding: 40px 40px 40px 40px;
 }
 
@@ -1073,12 +1074,28 @@ h4 {
     margin-bottom: 30px;
 
 }
-.espace{
+.ajust{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
     margin-bottom: 30px;
+}
+.espacemoins{
+    margin-bottom: 10px;
 }
 .textp2{
     font-size: 17px;
 }
 .form-group{
     margin-bottom: 20px;
+}
+.row .row-no-gutters .social .espace{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.fa-chevron-up{
+    color: white;
 }
