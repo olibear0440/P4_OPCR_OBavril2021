@@ -81,7 +81,7 @@ a:hover {
 }
 
 .bloc-bg-texture::before {
-    content: none;
+    content:"";
     background-size: 2px 2px;
     position: absolute;
     top: 0;
