@@ -284,7 +284,7 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-size: 38px;
 }
 
 .navbar {
@@ -518,7 +518,7 @@ button {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 0;
+    opacity: 1;
     z-index: 500;
     transition: all .3s ease-in-out;
 }
@@ -663,7 +663,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 32px;
 }
 
 .hero-bloc-text-sub {
